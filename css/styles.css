@@ -28,3 +28,9 @@ body {
 p {
     color: rgb(133, 133, 133);
 }
+
+.logo{
+    max-width: 6%;
+    height: auto;
+
+}
